@@ -4,7 +4,7 @@
 <h3 align="center">Egresada de Laboratoria como Desarrolladora Web. En el 2022 fui seleccionado para formar parte del Bootcamp de Laboratoria, mientras me desempeñaba en el campo laboral como Asistente Administrativo-Contable, acepté el reto de formar parte de está comunidad impulsando el avance tecnológico donde se incluye a la mujer.</h3>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Idiomas y herramientas:</h3>
 <p align="center"> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
