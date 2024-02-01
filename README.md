@@ -1,7 +1,7 @@
 ![Portada](img/Portada%20de%20Facebook%20de%20sitio%20web%20en%20turquesa.gif)
 
 <h1 align="center">Hola 👋, soy Yandira A.Condo S.</h1>
-<h3 align="center">Egresada de Laboratoria como Desarrolladora Web. En el 2022 fui seleccionado para formar parte del Bootcamp de Laboratoria, mientras me desempeñaba en el campo laboral como Asistente Administrativo-Contable, acepté el reto de formar parte de está comunidad impulsando el avance tecnológico donde se incluye a la mujer.</h3>
+<h3 align="center">Desarrolladora Web con formación en metodología ágil y especialización en desarrollo Front End, utilizando tecnologías como JavaScript, HTML, CSS y React.js. He adquirido experiencia valiosa a través del desarrollo de proyectos durante mi formación. Mi meta es seguir evolucionando y creciendo en mi carrera como Desarrolladora Web..</h3>
 
 
 <h3 align="left">Idiomas y herramientas:</h3>
